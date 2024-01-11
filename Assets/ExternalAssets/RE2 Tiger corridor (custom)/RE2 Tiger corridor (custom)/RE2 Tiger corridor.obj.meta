@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 139e4b26584b6f349a8c20aadb177da5
+timeCreated: 1462200816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object.000_Mesh.000_Material_f77ce48c.dds
+    100002: Object.001_Mesh.001_Material.001_6e9707d5.dds
+    100004: Object.002_Mesh.002_Material.002_8ec75092.dds
+    100006: Object.003_Mesh.003_Material.003_6e9707d5.dds
+    100008: Object.004_Mesh.004_Material.004_1584ed6f.dds
+    100010: Object.005_Mesh.005_Material.005_79961c3d.dds
+    100012: Object.006_Mesh.006_Material.006_3a8762ca.dds
+    100014: Object.007_Mesh.007_Material.007_carpettigrecorr.png
+    100016: Object.008_Mesh.008_Material.006_3a8762ca.dds
+    100018: Object.009_Mesh.009_Material.008_decal_wood_wall_04_d.
+    100020: Object.010_Mesh.010_Material.008_decal_wood_wall_04_d.
+    100022: Object.011_Mesh.011_Material.009_concrete_wall_08_d.dd
+    100024: Object.012_Mesh.012_Material.010_tiger_taxidermy_d.dds
+    100026: Object.013_Mesh.013_Material.011_tiger_taxidermy_d.dds
+    100028: Object.014_Mesh.014_Material.012_wood_beams_01_d.dds
+    100030: Object.015_Mesh.015_Material.012_wood_beams_01_d.dds
+    100032: Object.016_Mesh.016_Material.013_wood_wall_04_d.dds
+    100034: Object.017_Mesh.017_Material.014_wood_floor_03_d.dds
+    100036: Object.018_Mesh.018_Material.012_wood_beams_01_d.dds
+    100038: //RootNode
+    400000: Object.000_Mesh.000_Material_f77ce48c.dds
+    400002: Object.001_Mesh.001_Material.001_6e9707d5.dds
+    400004: Object.002_Mesh.002_Material.002_8ec75092.dds
+    400006: Object.003_Mesh.003_Material.003_6e9707d5.dds
+    400008: Object.004_Mesh.004_Material.004_1584ed6f.dds
+    400010: Object.005_Mesh.005_Material.005_79961c3d.dds
+    400012: Object.006_Mesh.006_Material.006_3a8762ca.dds
+    400014: Object.007_Mesh.007_Material.007_carpettigrecorr.png
+    400016: Object.008_Mesh.008_Material.006_3a8762ca.dds
+    400018: Object.009_Mesh.009_Material.008_decal_wood_wall_04_d.
+    400020: Object.010_Mesh.010_Material.008_decal_wood_wall_04_d.
+    400022: Object.011_Mesh.011_Material.009_concrete_wall_08_d.dd
+    400024: Object.012_Mesh.012_Material.010_tiger_taxidermy_d.dds
+    400026: Object.013_Mesh.013_Material.011_tiger_taxidermy_d.dds
+    400028: Object.014_Mesh.014_Material.012_wood_beams_01_d.dds
+    400030: Object.015_Mesh.015_Material.012_wood_beams_01_d.dds
+    400032: Object.016_Mesh.016_Material.013_wood_wall_04_d.dds
+    400034: Object.017_Mesh.017_Material.014_wood_floor_03_d.dds
+    400036: Object.018_Mesh.018_Material.012_wood_beams_01_d.dds
+    400038: //RootNode
+    2300000: Object.000_Mesh.000_Material_f77ce48c.dds
+    2300002: Object.001_Mesh.001_Material.001_6e9707d5.dds
+    2300004: Object.002_Mesh.002_Material.002_8ec75092.dds
+    2300006: Object.003_Mesh.003_Material.003_6e9707d5.dds
+    2300008: Object.004_Mesh.004_Material.004_1584ed6f.dds
+    2300010: Object.005_Mesh.005_Material.005_79961c3d.dds
+    2300012: Object.006_Mesh.006_Material.006_3a8762ca.dds
+    2300014: Object.007_Mesh.007_Material.007_carpettigrecorr.png
+    2300016: Object.008_Mesh.008_Material.006_3a8762ca.dds
+    2300018: Object.009_Mesh.009_Material.008_decal_wood_wall_04_d.
+    2300020: Object.010_Mesh.010_Material.008_decal_wood_wall_04_d.
+    2300022: Object.011_Mesh.011_Material.009_concrete_wall_08_d.dd
+    2300024: Object.012_Mesh.012_Material.010_tiger_taxidermy_d.dds
+    2300026: Object.013_Mesh.013_Material.011_tiger_taxidermy_d.dds
+    2300028: Object.014_Mesh.014_Material.012_wood_beams_01_d.dds
+    2300030: Object.015_Mesh.015_Material.012_wood_beams_01_d.dds
+    2300032: Object.016_Mesh.016_Material.013_wood_wall_04_d.dds
+    2300034: Object.017_Mesh.017_Material.014_wood_floor_03_d.dds
+    2300036: Object.018_Mesh.018_Material.012_wood_beams_01_d.dds
+    3300000: Object.000_Mesh.000_Material_f77ce48c.dds
+    3300002: Object.001_Mesh.001_Material.001_6e9707d5.dds
+    3300004: Object.002_Mesh.002_Material.002_8ec75092.dds
+    3300006: Object.003_Mesh.003_Material.003_6e9707d5.dds
+    3300008: Object.004_Mesh.004_Material.004_1584ed6f.dds
+    3300010: Object.005_Mesh.005_Material.005_79961c3d.dds
+    3300012: Object.006_Mesh.006_Material.006_3a8762ca.dds
+    3300014: Object.007_Mesh.007_Material.007_carpettigrecorr.png
+    3300016: Object.008_Mesh.008_Material.006_3a8762ca.dds
+    3300018: Object.009_Mesh.009_Material.008_decal_wood_wall_04_d.
+    3300020: Object.010_Mesh.010_Material.008_decal_wood_wall_04_d.
+    3300022: Object.011_Mesh.011_Material.009_concrete_wall_08_d.dd
+    3300024: Object.012_Mesh.012_Material.010_tiger_taxidermy_d.dds
+    3300026: Object.013_Mesh.013_Material.011_tiger_taxidermy_d.dds
+    3300028: Object.014_Mesh.014_Material.012_wood_beams_01_d.dds
+    3300030: Object.015_Mesh.015_Material.012_wood_beams_01_d.dds
+    3300032: Object.016_Mesh.016_Material.013_wood_wall_04_d.dds
+    3300034: Object.017_Mesh.017_Material.014_wood_floor_03_d.dds
+    3300036: Object.018_Mesh.018_Material.012_wood_beams_01_d.dds
+    4300000: Object.000_Mesh.000_Material_f77ce48c.dds
+    4300002: Object.001_Mesh.001_Material.001_6e9707d5.dds
+    4300004: Object.002_Mesh.002_Material.002_8ec75092.dds
+    4300006: Object.003_Mesh.003_Material.003_6e9707d5.dds
+    4300008: Object.004_Mesh.004_Material.004_1584ed6f.dds
+    4300010: Object.005_Mesh.005_Material.005_79961c3d.dds
+    4300012: Object.006_Mesh.006_Material.006_3a8762ca.dds
+    4300014: Object.007_Mesh.007_Material.007_carpettigrecorr.png
+    4300016: Object.008_Mesh.008_Material.006_3a8762ca.dds
+    4300018: Object.009_Mesh.009_Material.008_decal_wood_wall_04_d.
+    4300020: Object.010_Mesh.010_Material.008_decal_wood_wall_04_d.
+    4300022: Object.011_Mesh.011_Material.009_concrete_wall_08_d.dd
+    4300024: Object.012_Mesh.012_Material.010_tiger_taxidermy_d.dds
+    4300026: Object.013_Mesh.013_Material.011_tiger_taxidermy_d.dds
+    4300028: Object.014_Mesh.014_Material.012_wood_beams_01_d.dds
+    4300030: Object.015_Mesh.015_Material.012_wood_beams_01_d.dds
+    4300032: Object.016_Mesh.016_Material.013_wood_wall_04_d.dds
+    4300034: Object.017_Mesh.017_Material.014_wood_floor_03_d.dds
+    4300036: Object.018_Mesh.018_Material.012_wood_beams_01_d.dds
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
